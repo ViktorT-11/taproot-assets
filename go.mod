@@ -1,4 +1,4 @@
-module github.com/lightninglabs/taproot-assets
+module github.com/viktortigerstrom/taproot-assets
 
 go 1.19
 
